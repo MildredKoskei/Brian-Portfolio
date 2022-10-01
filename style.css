@@ -1,4 +1,22 @@
 body{
-    background-color: aqua;
+    background-color: skyblue;
     text-align: center;
+}
+.contacts{
+    
+    display:block;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+.portfolio{
+   
+    display:block;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.About{
+    
+    display:block;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
